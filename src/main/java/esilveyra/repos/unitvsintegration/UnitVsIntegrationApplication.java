@@ -9,6 +9,4 @@ public class UnitVsIntegrationApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UnitVsIntegrationApplication.class, args);
 	}
-
-
 }
